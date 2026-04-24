@@ -222,7 +222,7 @@ Expected response `200 OK`:
 {
   "api": "Smart Campus Sensor & Room Management API",
   "version": "1.0",
-  "contact": "admin@smartcampus.university.ac.uk",
+  "contact": "w2153374@westminster.ac.uk",
   "description": "RESTful API for managing campus rooms and IoT sensors.",
   "resources": {
     "rooms": "/api/v1/rooms",
